@@ -1,0 +1,178 @@
+.principal{
+
+    width: 100%;
+    background-color: black;
+}
+.titulo{
+
+    width: 100%;
+    display: flex;
+ 
+}
+
+.logo{
+
+  
+    width: 15%;
+   
+}
+
+.buscador{
+
+    width: 50%;
+    margin-left: 150px;
+
+}
+
+.botones{
+
+    width: 35%;
+}
+
+#busca{
+    color: white;
+    background-color: black;
+    border: -1px solid white;
+    border-radius: 20px; 
+    padding: 4px;
+    margin-top: 15px;
+    width: 500px;
+}
+
+#busca > ::placeholder{
+
+    color: white;
+}
+
+#botons{
+    margin-left: 20px;
+    margin-top: 10px;
+    border: solid white 1px;
+    background-color: #000; 
+    color: #fff; 
+    padding: 10px 30px; 
+    border-radius: 5px; 
+    cursor: pointer;
+}
+
+.contenedor{
+    display: flex;
+    width: 100%;
+    color: white;
+}
+
+.izquierda{
+
+    margin-left: 6px;
+    margin-top: 10px;
+    text-align: center;
+    border: solid white 1px;
+    width: 12%;
+}
+
+.derecha{
+
+    width: 88%;
+  
+}
+
+#botones2{
+    margin-top: 15px;
+   height: 30px;
+   width: 120px;
+    border: solid white 1px;
+    background-color: #000; 
+    color: #fff; 
+    border-radius: 5px; 
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.white-line {
+    border: none;
+    border-top: 1px solid #fff; 
+    margin: 20px 0; 
+}
+
+.suscrip{
+    margin-top: 8px;
+    display: flex;
+    width: 10%;
+}
+
+#imagenes1{
+    margin-left: 16px;
+    width: 40px; 
+    height: 40px;
+    border-radius: 50%; 
+    object-fit: co
+}
+
+#nombresyou{
+    margin-top: 10px;
+  margin-left: 6px;
+}
+
+.botonesderecha{
+    
+    width: 88%;
+    display: flex;
+    margin-left: 20px;
+}
+
+#botones3{
+    margin-left: 30px;
+    margin-top: 15px;
+   height: 30px;
+   width: 120px;
+    border: solid white 1px;
+    background-color: #000; 
+    color: #fff; 
+    border-radius: 5px; 
+    cursor: pointer;
+    font-size: 12px;
+    position: relative;
+    top: 1px;
+    right: -300px;
+}
+
+#imagenPublicidad{
+
+    position: relative;
+    top: 30px;
+    right: -400px;
+}
+
+#Recomended{
+
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.videoscontenedor{
+
+    display: flex;
+    width: 100%;
+}
+
+.videos{
+
+    width: 20%;
+ 
+}
+
+#miniatura{
+    margin-left: 30px;
+    width: 80%;
+    height: 100px;
+    border-radius: 10px; 
+}
+
+#pminiatura{
+   margin-top: 1px;
+   margin-left: 30px;
+   font-size: 12px;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
